@@ -1,6 +1,5 @@
 # rpack6
 This is the homework for assignment 3.2.1 (advanced R)
-# rpack4
 These are the functions for rapck6. This package includes the cheat function and the remind_me function. 
 
 ## Installation
